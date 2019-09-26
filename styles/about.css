@@ -1,0 +1,15 @@
+body {
+  font-family: 'Raleway Dots', cursive;
+  padding: 20px;
+}
+
+nav {
+  text-align: center;
+}
+
+.nav-header ul li {
+  display: inline;
+  font-size: 1.5rem;
+  list-style-type: none;
+  padding: 10px 30px;
+}

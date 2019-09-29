@@ -13,3 +13,19 @@ nav {
   list-style-type: none;
   padding: 10px 30px;
 }
+
+.hello {
+  font-family: 'Raleway Dots', cursive;
+  /* font-family: 'Londrina Sketch', cursive; */
+}
+
+.hello h3 {
+  padding: 20px;
+  font-family: 'League Script', cursive;
+  font-size: 6rem;
+  color: #fff;
+  text-align: center;
+  -webkit-animation: glow 1s ease-in-out infinite alternate;
+  -moz-animation: glow 1s ease-in-out infinite alternate;
+  animation: glow 1s ease-in-out infinite alternate;
+}

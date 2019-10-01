@@ -38,24 +38,17 @@ nav {
     text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #f798c7, 0 0 80px #ff4da6;
   }
 }
-
-div.repos {
-  margin: 1rem;
-  width: 15rem;
+.blog_title {
+  font-size: 2em;
 }
 
-div.repos img {
-  width: 100%;
-  height: auto;
-  text-align: center;
+.post {
+  grid-column: main;
 }
 
-.pro_detail div{
-  font-size: 2rem;
-  padding: 1rem;
-  text-align: center;
+.writer {
+  margin: flex
 }
-
 main {
   padding: 1rem 3rem;
   text-align: center;
